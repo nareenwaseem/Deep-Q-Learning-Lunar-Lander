@@ -1,1 +1,5 @@
 # Deep-Q-Learning-Lunar-Lander
+
+This GitHub repository features a Jupyter Notebook implementation of a lunar landing robot using reinforcement learning, aiming to train the robot to autonomously navigate and land on the lunar surface. The project utilizes popular reinforcement learning algorithms such as Deep Q-Network (DQN), Proximal Policy Optimization (PPO), or Deep Deterministic Policy Gradients (DDPG) to enable the robot to learn optimal policies through exploration and reward-based feedback in a simulated lunar terrain environment. The notebook includes interactive visualizations, customizable parameters, and comprehensive explanations, making it an educational resource for those interested in deep reinforcement learning, robotics, and autonomous navigation systems. Contributions are encouraged to improve the robot's performance and extend the project's capabilities, with the code available under the MIT License for broader usage and modification.
+
+![WhatsApp Image 2023-08-06 at 3 55 31 PM](https://github.com/nareenwaseem/Deep-Q-Learning-Lunar-Lander/assets/113854962/a0ae87d5-c853-4603-a0df-8a1a972c46d7)
